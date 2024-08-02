@@ -1,3 +1,4 @@
+```
 ALL_OS = {
     "Linux", "FreeBSD", "Windows XP", "Windows 7", "Windows 10", 
     "Symbian", "Palm OS", "Cisco IOS", "Mac OS", "OpenBSD", 
@@ -111,3 +112,4 @@ OS_DB = {
         None: ALL_OS
     }
 }
+```
